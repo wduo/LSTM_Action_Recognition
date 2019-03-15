@@ -1,0 +1,13 @@
+# Customize
+.idea/
+__pycache__/
+
+*.avi
+*.png
+*.jpg
+
+*.txt
+*.csv
+
+*.ckpt
+*.npy
